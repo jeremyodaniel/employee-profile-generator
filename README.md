@@ -5,6 +5,7 @@
 
   ## Usage
   Invoke Inquirer from CLI and answer the questions about your employees.
+  [Screencastify](https://watch.screencastify.com/v/6P6URCmhXkJLY34Je4Ic)
 
   ## Installation Guide
   
